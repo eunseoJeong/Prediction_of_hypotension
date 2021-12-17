@@ -15,7 +15,7 @@
 <br>
 
 ## ✔ 흐름도
-<img src="https://user-images.githubusercontent.com/80669355/146491616-62f4a2c1-1e94-413d-8f07-b2515fa9aa97.PNG"  width="700" height="500">
+<img src="https://user-images.githubusercontent.com/80669355/146491616-62f4a2c1-1e94-413d-8f07-b2515fa9aa97.PNG"  width="700" height="300">
 <br>
 
 ## 🌱 결과
