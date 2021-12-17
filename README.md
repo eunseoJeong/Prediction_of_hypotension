@@ -15,12 +15,14 @@
 <br>
 
 ## ✔ 흐름도
-
+![흐름도](https://user-images.githubusercontent.com/80669355/146491616-62f4a2c1-1e94-413d-8f07-b2515fa9aa97.PNG)
 <br>
 
 ## 🌱 결과
 - SBP 예측 모델
+![SBP예측시각화](https://user-images.githubusercontent.com/80669355/146491628-83684675-05a3-4857-bae9-c238e70ae541.png)
 
 - MBP 예측 모델
+![MBP예측시각화](https://user-images.githubusercontent.com/80669355/146491763-609afa68-e309-49f5-85dc-6bd127e2a193.png)
 
 
