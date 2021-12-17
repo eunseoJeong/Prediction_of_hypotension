@@ -16,16 +16,16 @@
 
 ## ✔ 흐름도
 ![흐름도](https://user-images.githubusercontent.com/80669355/146491616-62f4a2c1-1e94-413d-8f07-b2515fa9aa97.PNG)
-<img src="https://user-images.githubusercontent.com/80669355/146491616-62f4a2c1-1e94-413d-8f07-b2515fa9aa97.PNG"  width="500" height="300">
+<img src="https://user-images.githubusercontent.com/80669355/146491616-62f4a2c1-1e94-413d-8f07-b2515fa9aa97.PNG"  width="700" height="500">
 <br>
 
 ## 🌱 결과
 - SBP 예측 모델
 ![SBP예측시각화](https://user-images.githubusercontent.com/80669355/146491855-79495ad2-af86-41f6-990c-08f499962e47.png)
-<img src="https://user-images.githubusercontent.com/80669355/146491855-79495ad2-af86-41f6-990c-08f499962e47.png"  width="200" height="200">
+<img src="https://user-images.githubusercontent.com/80669355/146491855-79495ad2-af86-41f6-990c-08f499962e47.png"  width="400" height="400">
 
 - MBP 예측 모델
 ![MBP예측시각화](https://user-images.githubusercontent.com/80669355/146491763-609afa68-e309-49f5-85dc-6bd127e2a193.png)
-<img src="https://user-images.githubusercontent.com/80669355/146491763-609afa68-e309-49f5-85dc-6bd127e2a193.png"  width="200" height="200">
+<img src="https://user-images.githubusercontent.com/80669355/146491763-609afa68-e309-49f5-85dc-6bd127e2a193.png"  width="400" height="400">
 
 
